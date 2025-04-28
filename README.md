@@ -22,3 +22,4 @@ This is a Python project that sends personalized birthday greetings via email to
 2. Install the required libraries:
    ```bash
    pip install -r requirements.txt
+![ChatGPT Image Apr 28, 2025, 04_16_05 PM](https://github.com/user-attachments/assets/bd3510fb-3e8a-4097-ba9e-da8dcd63029f)
